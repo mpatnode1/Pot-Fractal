@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Programming/PotFractal/bin/Debug/net7.0/PotFractal
+/Users/meghanpatnode/Programming/PotFractal/bin/Debug/net7.0/PotFractal.deps.json
+/Users/meghanpatnode/Programming/PotFractal/bin/Debug/net7.0/PotFractal.runtimeconfig.json
+/Users/meghanpatnode/Programming/PotFractal/bin/Debug/net7.0/PotFractal.dll
+/Users/meghanpatnode/Programming/PotFractal/bin/Debug/net7.0/PotFractal.pdb
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.csproj.AssemblyReference.cache
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.AssemblyInfo.cs
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.dll
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/refint/PotFractal.dll
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.pdb
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/PotFractal.genruntimeconfig.cache
+/Users/meghanpatnode/Programming/PotFractal/obj/Debug/net7.0/ref/PotFractal.dll
